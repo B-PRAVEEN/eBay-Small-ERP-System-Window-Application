@@ -1,0 +1,139 @@
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.exe
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.pdb
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.ApplicationHome.resources
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.feesandprofit.resources
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventory.resources
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventoryadd.resources
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sales.resources
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.salesentry.resources
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.csproj.GenerateResource.Cache
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.csprojResolveAssemblyReference.cache
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Properties.Resources.resources
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.pdb
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\bin\Debug\MySql.Data.dll
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe.config
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe.config
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.pdb
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\bin\Debug\MySql.Data.dll
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.ApplicationHome.resources
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.feesandprofit.resources
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventory.resources
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventoryadd.resources
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Properties.Resources.resources
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sales.resources
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.salesentry.resources
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.exe
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.pdb
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventorylist.resources
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\GenerateResource.write.5147.tlog
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.setting.resources
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Mail.resources
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\bin\Debug\Gmail.dll
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\GenerateResource.read.9184.tlog
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\GenerateResource.write.9184.tlog
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\GenerateResource.read.9194.tlog
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\GenerateResource.read.9197.tlog
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\GenerateResource.read.9200.tlog
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\GenerateResource.read.9203.tlog
+C:\Users\Prostyle\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sendmail.resources
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\bin\Debug\Gmail.dll
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventorylist.resources
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Mail.resources
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sendmail.resources
+C:\Users\prost_000\Google Drive\finalstartofebayproject\eBayERPSolution\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.setting.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe.config
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.exe
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.pdb
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.pdb
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\bin\Debug\Gmail.dll
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\bin\Debug\MySql.Data.dll
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.ApplicationHome.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.feesandprofit.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventory.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventoryadd.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventorylist.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Mail.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Properties.Resources.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sales.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.salesentry.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sendmail.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.setting.resources
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Prostyle\Google Drive\eBayERPSolution\eBayERPSolution\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Prostyle\Desktop\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe.config
+C:\Users\Prostyle\Desktop\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.exe
+C:\Users\Prostyle\Desktop\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.pdb
+F:\erp backup project\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe.config
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.exe
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.pdb
+F:\erp backup project\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe
+F:\erp backup project\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.pdb
+F:\erp backup project\eBayERPSolution\eBayERPSolution\bin\Debug\Gmail.dll
+F:\erp backup project\eBayERPSolution\eBayERPSolution\bin\Debug\MySql.Data.dll
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.ApplicationHome.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.feesandprofit.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventory.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventoryadd.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventorylist.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Mail.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Properties.Resources.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sales.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.salesentry.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sendmail.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.setting.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.invoice_cs.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sms.resources
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.csprojResolveAssemblyReference.cache
+F:\erp backup project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.csproj.GenerateResource.Cache
+F:\Team Project\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe.config
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.exe
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.pdb
+F:\Team Project\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe
+F:\Team Project\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.pdb
+F:\Team Project\eBayERPSolution\eBayERPSolution\bin\Debug\Gmail.dll
+F:\Team Project\eBayERPSolution\eBayERPSolution\bin\Debug\MySql.Data.dll
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.csprojResolveAssemblyReference.cache
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.ApplicationHome.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.feesandprofit.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventory.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventoryadd.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventorylist.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.invoice_cs.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Mail.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Properties.Resources.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sales.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.salesentry.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sendmail.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.setting.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sms.resources
+F:\Team Project\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.csproj.GenerateResource.Cache
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe.config
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.exe
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.pdb
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.csprojResolveAssemblyReference.cache
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.ApplicationHome.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.feesandprofit.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventory.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventoryadd.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.inventorylist.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.invoice_cs.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Mail.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.Properties.Resources.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sales.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.salesentry.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sendmail.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.setting.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.sms.resources
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.csproj.GenerateResource.Cache
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\obj\x86\Debug\eBayERPSolution.csprojFakesResolveAssemblyReference.cache
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.exe
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\bin\Debug\eBayERPSolution.pdb
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\bin\Debug\Gmail.dll
+G:\Prostyle Pc - Project\prostylepc\eBayERPSolutionV1.0\eBayERPSolution\eBayERPSolution\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll

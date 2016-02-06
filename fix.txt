@@ -1,0 +1,5 @@
+v2.1.5
+Sales Entry Bug Fix
+Inventory Bug Fix
+Add icon to application
+Remove Some Usless option.

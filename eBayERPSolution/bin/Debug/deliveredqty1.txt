@@ -1,0 +1,36 @@
+<table><tr>
+  <td><img src="https://lh5.googleusercontent.com/-3ZodqKZw8JI/Ug9-Qi73NgI/AAAAAAAAAYc/3iA456TCIJM/s580/580x60pckart.png" alt="Prostyle Pc Kart Logo" width="580" height="60"></td></tr><tr>
+  <td><p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>Dear $name,</p>
+<p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>Greetings from Prostyle Pc Kart!</p>
+<p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>We are pleased to inform you that the Prostyle Pc kart has delivered the following items in your Order <strong>$paisapayid</strong> with tracking number <strong>$awbno.</strong></p>
+<table border="0" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="background-color:#CCC";>Product Details</td>
+      
+      <td style="background-color:#CCC";>Ordered Quantity</td>
+      <td style="background-color:#CCC";>Delivered Quantity</td>
+    </tr>
+    <tr>
+      <td>$product1</td>
+      
+      <td align="center">$qty1</td>
+      <td align="center">$qty1</td>
+    </tr>
+  </tbody>
+</table>
+<p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>We believe that you have now received the item in satisfactory condition.<br>we have allready left positive feedback for you.we are now requesting to please leave feedback for us on ebay,as a way of making sure my customers are satisfied.<br>
+If you are not sarisfied with the purchase please contact us by&nbsp;Email:Support@prostylepc.com,&nbsp;Or By <a href="http://prostylepc.freshdesk.com">Online Resolution</a>.<br>
+We will try our best to resolve you problem.</p>
+<table style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";><tr><td><p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";><strong>To leave feedback, just click on the link below:</strong></p>
+<p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>http://feedback.ebay.in/ws/eBayISAPI.dll?LeaveFeedbackShow&amp;useridfrom=$buyerid</p>
+<p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>Item title:<strong>$product1.</strong></p>
+
+<p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>Buyer User ID:<strong>$buyerid</strong></p>
+<p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>Seller User ID:<strong>eshop.prostylepc.in</strong></p>
+<p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>Total: <strong>Rs.$total</strong></p></td></tr></table>
+<p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>Feedback is very important for us to survie in ebay.</p>
+<p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>Thank you for shopping with us!</p>
+<p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif";>Regards,<br>
+The Prostyle Pc Kart Team <br>
+Call Support:+91-971-610-6715</p></td></tr></table>

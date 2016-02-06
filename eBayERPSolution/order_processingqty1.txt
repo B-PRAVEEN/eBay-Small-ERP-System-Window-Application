@@ -1,0 +1,93 @@
+<body>
+<table width="580" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tbody>
+    <tr>
+      <td colspan="2" align="right" valign="middle" width="580" height="60" bgcolor="00496f"></div></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left" valign="middle" width="580" bgcolor="3bb1d7"><p><strong>Order Confirmed!</strong></p></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left" valign="top" width="580" bgcolor="ffffff"><p>&nbsp;</p>
+        <p>Dear<strong>$name,</strong></p>
+        <p>Greetings from Prostyle PC Kart</p>
+        <p>We thank you for your order. This email contains your order summary. When the item(s) in your order are ready to ship, you will receive an email with the Courier Tracking ID and the link where you can track your order.You can also check the status of your order on <strong>ebay.in</strong></p>
+        
+        Please find below the summary of your order <strong>$paisapayid</strong></a> at ProstylePc Kart Seller of eBay.in:
+        </p></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left" valign="top" width="580" bgcolor="ffffff"><table border="0" cellspacing="0" cellpadding="0" width="580">
+        <tbody>
+          <tr>
+            <td colspan="7"><p><strong>Order ID: $paisapayid 
+                |Seller ID : eshop.prostylepc.in</strong></p>
+              <p>                <strong>Item (s) Ordered:</strong></p></td>
+          </tr>
+          <tr>
+            <td width="274" valign="top"><p><strong>Product Details</strong></p></td>
+           
+            <td width="112" valign="top"><p><strong>Shipping Date</strong></p></td>
+            <td width="62" valign="top"><p><strong>Ordered Quantity</strong></p></td>
+            <td width="132" valign="top"><p><center><strong>Price</strong></center></p></td>
+            
+            
+          </tr>
+          <tr>
+            <td width="274" valign="top"><p>$product1</p>
+              </td>
+            <td width="112"valign="top"><p>&nbsp;</p></td>
+            <td width="62" valign="top"><center><p>$qty1</p></center></td>
+            <td width="132"valign="top" align="center"><p> Rs.$iprice1</p></td>
+            
+          
+          <tr>
+            <td colspan="2"><p>Shipping Charge</p></td>
+            <td width="62"><center><p>$sfees</p></center></td>
+          </tr>
+          <tr>
+            <td valign="top" colspan="3"><p><strong>Total</strong></p></td>
+            <td width="132" valign="top"><p><center><strong>Rs.$total</strong></center></p></td>
+          </tr>
+          <tr>
+            <td valign="top" colspan="3"><p>&nbsp;</p></td>
+            <td width="132" valign="top"><p>&nbsp;</p></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left" valign="top" width="580" bgcolor="ffffff"></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" width="290" bgcolor="ffffff"><p><strong>Shipping Address:</strong></p>
+        <table width="100%" border="0">
+          <tr>
+            <th scope="row" align="left">$saddress</th>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left" valign="top" width="580" bgcolor="ffffff"><p>Support <a href="http://prostylepc.freshdesk.com" target="_blank"> <strong>Online Support </strong></a></p>
+        
+        should you have any questions or need further assistance.
+        </p></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody>
+          <tr>
+            <td align="left" width="535"><p>Thank you for shopping with us!</p></td>
+            <td rowspan="2" valign="middle">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" width="45"><p>kart.prostylep.com Sastha Kart| <a href="http://eshop.prostylepc.com" target="_blank">http://www.eshop.prostylepc.com</a></p>
+              
+              </p></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+  </tbody>
+</table>
+</body>

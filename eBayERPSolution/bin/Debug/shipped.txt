@@ -1,0 +1,1 @@
+Your order #$pid has shipped by $lsp, AWB No#$awb.You can track your consignemnt after 12 hours.Thank You

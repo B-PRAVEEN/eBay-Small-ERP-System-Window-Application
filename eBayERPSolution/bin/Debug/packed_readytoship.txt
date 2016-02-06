@@ -1,0 +1,97 @@
+<html>
+<body>
+<table width="580" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tbody align="left">
+    <tr>
+      <td colspan="2" align="right" valign="middle" width="580" height="60" bgcolor=""><img src="https://lh5.googleusercontent.com/-3ZodqKZw8JI/Ug9-Qi73NgI/AAAAAAAAAYc/3iA456TCIJM/s580/580x60pckart.png" alt="Prostyle Pc Kart Logo" width="580" height="60" style="alignment-adjust:middle";></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left" valign="middle" width="580" bgcolor="#666666" style="color:#FFF;"><p><span style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif"><strong>Packed and Ready To Ship by Prostyle Pc Kart</strong></span></p></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left" valign="top" width="580" bgcolor="ffffff"><p>&nbsp;</p>
+        <p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">Dear<strong> $name,</strong></p>
+        <p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">Greetings from Prostyle PC Kart</p>
+        <p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">We are pleased to infrom you that your item has been packed and it is Ready To Ship.</p>
+        <p style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">Please find below the summary of your order <strong>$paisapayid</strong></a> at&nbsp;ProstylePc Kart Seller of eBay.in:</p><br></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left" valign="top" width="580" bgcolor="ffffff"><table border="0" cellspacing="0" cellpadding="0" width="580">
+        <tbody>
+          <tr>
+            <td colspan="7" style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif"><p><strong>Order ID: $paisapayid 
+                &nbsp;| Seller ID : eshop.prostylepc.in</strong></p></td>
+          </tr>
+          
+          <tr bgcolor="#999999" style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+            <td width="274" valign="top"><p><strong>Product Details</strong></p></td>
+           
+            <td width="112" valign="top"><p><strong>Shipping Date</strong></p></td>
+            <td width="62" valign="top"><p><strong> Quantity</strong></p></td>
+            <td width="132" valign="top"><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Price</strong></p></td>
+            
+            
+          </tr>
+          <tr style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+            <td width="274" valign="top"><p>$product1</p>
+              </td>
+            <td width="112"valign="top"><p>$sdate</p></td>
+            <td width="62" valign="top"><center><p>$qty1</p></center></td>
+            <td width="132"valign="top"><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rs.$iprice1</p></td>
+            
+          
+          <tr style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+            <td colspan="3"><p>Shipping Charge</p></td>
+            <td width="62"><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rs.$sfees</p></td>
+          </tr>
+          <tr style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+            <td valign="top" colspan="3" style="background-color:#CCC;"><p><strong>Total</strong></p></td>
+            <td width="132" valign="top" style="background-color:#CCC"><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Rs.$total</strong></p></td>
+          </tr>
+          <tr style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+            <td valign="top" colspan="3"><p>&nbsp;</p></td>
+            <td width="132" valign="top"><p>&nbsp;</p></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+    <tr style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+      <td colspan="2" align="left" valign="top" width="580" bgcolor="ffffff"></td>
+    </tr>
+    <tr style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+      <td align="left" valign="top" width="290" bgcolor="ffffff" colspan="4"><p>Your Shipment Will sent through:- <strong>$lsp</strong>&nbsp;<br>
+        Shipment Tracking id:- <strong>$awbno</strong>&nbsp;<br>
+        You may track your Shipment by visiting the&nbsp;<strong>$lsp</strong> website.<br>
+        Please note that tracking ID may take up to 24 hours to be activated<br>
+        You will receive your shipment in 1-2 working days
+        </p>
+        <p><strong>The shipment will sent to:</strong></p>
+        <table width="100%" border="0">
+          <tr style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+            <td width="50%" align="left" scope="row"><strong>$saddress</strong></td>
+            <td width="50%"></td>
+          </tr>
+      </table>
+      </td>
+    </tr>
+    <tr style="font-size:13px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+      <td colspan="2" align="left" valign="top" width="580" bgcolor="ffffff"><p>Support&nbsp;<a href="http://prostylepc.freshdesk.com" target="_blank"><strong>Online Support </strong></a>|Customer Care: 971-610-6715|Emial Id: support@prostylepc.com</p></td>
+    </tr>
+    <tr style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+      <td colspan="2" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody>
+          <tr style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+            <td align="left" width="535"><p>Thank you for shopping with us!</p></td>
+          </tr>
+          <tr style="font-size:14px;font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+            <td align="left" width="45"><p>kart.prostylepc.com |&nbsp;<a href="http://eshop.prostylepc.com" target="_blank">http://www.kart.prostylepc.com</a></p>
+              
+              </p></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
